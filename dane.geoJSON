@@ -1,0 +1,484 @@
+{
+    "collections": [
+        {
+            "type": "FeatureCollection",
+            "name": "518 (Nowodwory -> Bielańska)",
+            "features": [
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            52.334503,
+                            20.942112
+                        ]
+                    },
+                    "properties": {
+                        "label": "Nowodwory 08"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            52.332472,
+                            20.940635
+                        ]
+                    },
+                    "properties": {
+                        "label": "Nowodwory 03"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            52.332407,
+                            20.935850
+                        ]
+                    },
+                    "properties": {
+                        "label": "Hanki Ordonówny 01"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            52.326642,
+                            20.936875
+                        ]
+                    },
+                    "properties": {
+                        "label": "Ciołkosza 01"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            52.324700,
+                            20.937693
+                        ]
+                    },
+                    "properties": {
+                        "label": "Odkryta 01"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            52.320667,
+                            20.940350
+                        ]
+                    },
+                    "properties": {
+                        "label": "Nowodworska 01"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            52.318328,
+                            20.946596
+                        ]
+                    },
+                    "properties": {
+                        "label": "Pancera 01"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            52.316369,
+                            20.952471
+                        ]
+                    },
+                    "properties": {
+                        "label": "Tarchomin 11"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            52.313359,
+                            20.958208
+                        ]
+                    },
+                    "properties": {
+                        "label": "Picassa 01"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            52.315419,
+                            20.962081
+                        ]
+                    },
+                    "properties": {
+                        "label": "Porajów 02"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            52.317122,
+                            20.961839
+                        ]
+                    },
+                    "properties": {
+                        "label": "Myśliborska 01"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            52.319507,
+                            20.968346
+                        ]
+                    },
+                    "properties": {
+                        "label": "Milenijna 01"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            52.320655,
+                            20.972062
+                        ]
+                    },
+                    "properties": {
+                        "label": "Białołęka-Ratusz 01"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            52.311660,
+                            20.978475
+                        ]
+                    },
+                    "properties": {
+                        "label": "Ekspresowa 01"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            52.307267,
+                            20.983894
+                        ]
+                    },
+                    "properties": {
+                        "label": "Płochocińska 01"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            52.302726,
+                            20.989777
+                        ]
+                    },
+                    "properties": {
+                        "label": "Konwaliowa 01"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            52.278869,
+                            20.976817
+                        ]
+                    },
+                    "properties": {
+                        "label": "Os. Potok 04"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            52.273392,
+                            20.966474
+                        ]
+                    },
+                    "properties": {
+                        "label": "Park Kaskada 06"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            52.271703,
+                            20.971834
+                        ]
+                    },
+                    "properties": {
+                        "label": "Metro Marymont 01"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            52.268339,
+                            20.986331
+                        ]
+                    },
+                    "properties": {
+                        "label": "Plac Wilsona 07"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            52.258241508378944,
+                            20.99556780418177
+                        ]
+                    },
+                    "properties": {
+                        "label": "Dworzec Gdański 01"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            52.253290,
+                            21.000139
+                        ]
+                    },
+                    "properties": {
+                        "label": "Muranowska 05"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            52.248993,
+                            21.005390
+                        ]
+                    },
+                    "properties": {
+                        "label": "Plac Krasińskich 01"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            52.246561,
+                            21.011568
+                        ]
+                    },
+                    "properties": {
+                        "label": "Kapitulna 01"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            52.244167,
+                            21.009031
+                        ]
+                    },
+                    "properties": {
+                        "label": "Plac Teatralny 02"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            52.243572,
+                            21.002023
+                        ]
+                    },
+                    "properties": {
+                        "label": "plac Bankowy 02"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            52.244720,
+                            21.004834
+                        ]
+                    },
+                    "properties": {
+                        "label": "Bielańska 01"
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "name":"511 (Metro Młociny -> Dąbrówka Wiślana)",
+            "features": [
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            52.291349755419255,
+                            20.927839004729766
+                        ]
+                    },
+                    "properties": {
+                        "label": "Metro Młociny 18"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            52.291452968669795,
+                            20.930814581710038
+                        ]
+                    },
+                    "properties": {
+                        "label": "Metro Młociny 03"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            52.31698543544687,
+                            20.975158010686428
+                        ]
+                    },
+                    "properties": {
+                        "label": "Obrazkowa 02"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            52.32187205127808,
+                            20.971755851856607
+                        ]
+                    },
+                    "properties": {
+                        "label": "Białołęka-Ratusz 02"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            52.33207135031632,
+                            20.965327781992578
+                        ]
+                    },
+                    "properties": {
+                        "label": "Klasyków 02"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            52.335628176385605,
+                            20.961278884662917
+                        ]
+                    },
+                    "properties": {
+                        "label": "Henryków 02"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            52.34407083461601,
+                            20.95154764138928
+                        ]
+                    },
+                    "properties": {
+                        "label": "Poetów 02"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            52.34863711551449,
+                            20.94228248486246
+                        ]
+                    },
+                    "properties": {
+                        "label": "Dąbrówka Wiślana 01"
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            52.34866356756518,
+                            20.942784113756524
+                        ]
+                    },
+                    "properties": {
+                        "label": "Dąbrówka Wiślana 02"
+                    }
+                }
+            ]
+        }
+    ]
+}
