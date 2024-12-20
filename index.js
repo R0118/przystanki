@@ -19,11 +19,7 @@ Promise.all([
             waypoints: trasa,
             language: 'pl',
             router: new L.Routing.openrouteservice(
-                '{{5b3ce3597851110001cf62489601ac3aba474ff2accd6be5ebc4ecc8 }}',
-                {
-                        profile: "driving-car",
-                        geometry_simplify: true 
-                }),
+                '5b3ce3597851110001cf62489601ac3aba474ff2accd6be5ebc4ecc8'),
             createMarker: function (i, waypoint, n) {
                 var iconUrl;
                 var label = collection.features[i]?.properties.label;
