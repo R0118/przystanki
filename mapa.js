@@ -73,15 +73,15 @@ var legenda = L.Control.extend({
         var k = L.DomUtil.create('div', 'leaflet-routing-custom');
         k.innerHTML = `<div style="padding: 10px; font-size:100%;background-color:black">
                 <h2 style="text-align: center; color: white;">Mapa tras autobusowych w Warszawie</h2>
-                <div style="font-size:120%; margin-left: 130px; margin-bottom: 10px; display: flex; justify-content: space-between; align-items: center;">
+                <div style="font-size:120%; color: white; margin-left: 130px; margin-bottom: 10px; display: flex; justify-content: space-between; align-items: center;">
                 <span>Przystanek początkowy —</span>
                 <img src="https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-red.png" style="width: 20px; height: 34px;" />
             </div>
-            <div style="font-size:120%; margin-left: 130px; margin-bottom: 10px; display: flex; justify-content: space-between; align-items: center;">
+            <div style="font-size:120%; color: white; margin-left: 130px; margin-bottom: 10px; display: flex; justify-content: space-between; align-items: center;">
                 <span>Przystanek końcowy —</span>
                 <img src="https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-green.png" style="width: 20px; height: 34px;" />
             </div>
-            <div style="font-size:120%; margin-left: 130px; margin-bottom: 10px; display: flex; justify-content: space-between; align-items: center;">
+            <div style="font-size:120%; color: white; margin-left: 130px; margin-bottom: 10px; display: flex; justify-content: space-between; align-items: center;">
                 <span>Pozostałe przystanki —</span>
                 <img src="https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-blue.png" style="width: 20px; height: 34px;" />
             </div>
