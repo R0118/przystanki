@@ -269,8 +269,8 @@
                     "geometry": {
                         "type": "Point",
                         "coordinates": [
-                            52.258241508378944,
-                            20.99556780418177
+                            52.257998678030766,
+                            20.99577620547238
                         ]
                     },
                     "properties": {
@@ -359,7 +359,7 @@
         },
         {
             "type": "FeatureCollection",
-            "name":"511 (Metro Młociny -> Dąbrówka Wiślana)",
+            "name": "511 (Metro Młociny -> Dąbrówka Wiślana)",
             "features": [
                 {
                     "type": "Feature",
