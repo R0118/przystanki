@@ -22,7 +22,7 @@ Promise.all([
         var przystanki = L.Routing.control({
             waypoints: trasa,
             language: 'pl',
-            router: L.Routing.graphHopper('f4b21e7b-83d4-4e5e-8965-6685f1eb1f5f'),
+            router: L.Routing.graphHopper('3f3d23fb-91fb-4f54-8d75-2b8df6b95fea'),
             createMarker: function (i, waypoint, n) {
                 var iconUrl;
                 var label = kolekcja.features[i]?.properties.label;
